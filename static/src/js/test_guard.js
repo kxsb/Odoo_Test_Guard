@@ -10,9 +10,9 @@
     }
     window.__solTestGuardInstalled = true;
 
-    const TEST_HOST = "test.monnaies-locales.org";
-
-    const PROD_HOSTS = new Set([
+    const TEST_HOST = "test.monnaies-locales.org";     // REMPLACER PAR VOTRE SITE DE TEST
+ 
+    const PROD_HOSTS = new Set([    // REMPLACER PAR VOS SITES EN PRODUCTION
         "sol-monnaies-locales.org",
         "www.sol-monnaies-locales.org",
         "sol-reseau.org",
