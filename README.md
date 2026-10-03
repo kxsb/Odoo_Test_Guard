@@ -8,10 +8,10 @@ Lorsqu'un utilisateur se trouve sur l'instance de test et clique sur un lien men
 
 La protection n'est active que si :
 
-- l'hôte courant est `test.monnaies-locales.org`
+- l'hôte courant est `test.monnaies-locales.org` (exemple)
 - le bandeau natif de neutralisation Odoo `#oe_neutralize_banner` est présent
 
-Domaines protégés :
+Domaines protégés : (exemples)
 
 - `sol-monnaies-locales.org`
 - `www.sol-monnaies-locales.org`
